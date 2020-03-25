@@ -17,3 +17,10 @@
 p.handwritting {
   font-weight: bold;
 }
+
+img {
+  float: right;
+  width: 8%;
+  margin-top: -60px;
+  padding: 10px;
+}
